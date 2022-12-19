@@ -108,7 +108,7 @@ img {
     text-shadow: none;
 }
 .navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>.active>a {
-    background: #4CB8E6;
+    background: #DCD4BF;
     color:white;
     text-shadow:none;
     -webkit-box-shadow: inset 0 3px 9px rgba(0,0,0,.25); 
@@ -116,7 +116,7 @@ img {
 }
 
 .navbar-brand h2, .navbar-inverse .navbar-nav>li>a{
-    color: #4CB8E6;
+    color: #DCD4BF;
     color: white;
 }
 .navbar-toggle {
@@ -136,7 +136,7 @@ img {
 ========================================================================== */
 
 .cyan-wrapper{
-    background: #4CB8E6;
+    background: #DCD4BF;
 }
 h1.giant-heading {
     font-size: 130px; 
